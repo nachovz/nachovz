@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Nacho 👋 [![Linkedin: nachovz](https://img.shields.io/badge/-nachovz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nachovz/)](https://www.linkedin.com/in/nachovz/) [![GitHub Nachovz](https://img.shields.io/github/followers/nachovz?label=follow&style=social)](https://github.com/nachovz)
 
-<!--
-**nachovz/nachovz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm currently working at [Bidwise](https://www.bidwise.com/) where we are creating awesome web products.
+- 🎯 I'm passionate about all things web, especially when [Typescript](https://www.typescriptlang.org/) and Mobile hybrid with [Hotwire](https://turbo.hotwired.dev/handbook/native) are involved.
+- 🌱 Recent added interests: AI, Mobile Native.
+- ⚡ Fun fact: I love playing D&D 🐲🎲
 
-Here are some ideas to get you started:
+<div align="center">
+ 💻 My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![TypeScript, JavaScript, Rails, React, WordPress](https://skillicons.dev/icons?i=ts,js,rails,react,wordpress)](https://skillicons.dev)
+
+  My Stats
+
+  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nachovz&show_icons=true&count_private=true&theme=dark&hide=contribs" />&nbsp;&nbsp;
+  <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachovz&layout=compact&theme=dark&hide=csharp" />&nbsp;&nbsp;
+</div>
