@@ -1,9 +1,9 @@
 ### Hi there, I'm Nacho 👋 [![Linkedin: nachovz](https://img.shields.io/badge/-nachovz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nachovz/)](https://www.linkedin.com/in/nachovz/) [![GitHub Nachovz](https://img.shields.io/github/followers/nachovz?label=follow&style=social)](https://github.com/nachovz)
 
 - 💻 I'm currently working at [Bidwise](https://www.bidwise.com/) where we are creating awesome web products.
-- 🎯 I'm passionate about all things web, especially when [Typescript](https://www.typescriptlang.org/) and Mobile hybrid with [Hotwire](https://turbo.hotwired.dev/handbook/native) are involved.
+- 🎯 I'm passionate about all things web, especially [Typescript](https://www.typescriptlang.org/), [ReactJS](https://react.dev/), or [StimulusJS](https://stimulus.hotwired.dev/), and Mobile hybrid with [Hotwire](https://turbo.hotwired.dev/handbook/native).
 - 🌱 Recent added interests: AI, Mobile Native.
-- ⚡ Fun fact: I love playing D&D 🐲🎲
+- ⚡ Fun fact: I'm a dad, and I love playing D&D 🐲🎲 and Strategic Board Games
 
 <div align="center">
  💻 My Tech Stack
