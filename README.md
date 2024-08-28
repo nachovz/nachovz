@@ -8,9 +8,11 @@
 <div align="center">
  💻 My Tech Stack
 
-  [![TypeScript, JavaScript, Rails, React, WordPress](https://skillicons.dev/icons?i=ts,js,rails,react,wordpress)](https://skillicons.dev)
+  [![TypeScript, JavaScript, React, NextJS, Remix, HTML, CSS, Tailwind, MaterialUI, GIT, Rails, Python, Flask, Firebase, WordPress](https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,html,css,tailwind,materialui,git,rails,python,flask,firebase,wordpress)](https://skillicons.dev)
 
   My Stats
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nachovz&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
   <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nachovz&show_icons=true&count_private=true&theme=dark&hide=contribs" />&nbsp;&nbsp;
   <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachovz&layout=compact&theme=dark&hide=csharp" />&nbsp;&nbsp;
